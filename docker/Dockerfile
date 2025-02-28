@@ -15,6 +15,5 @@ COPY . .
 
 # Expose the app's port (e.g., 8080)
 EXPOSE 8080
-
 # Command to run the app
 CMD ["npm", "start"]
